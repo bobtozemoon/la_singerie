@@ -1,3 +1,3 @@
 # la_singerie
 
-![alt text](https://en.wikipedia.org/wiki/Singerie#/media/File:Abraham_Teniers_-_Kaartspelende_apen.jpg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Abraham_Teniers_-_Kaartspelende_apen.jpg/1280px-Abraham_Teniers_-_Kaartspelende_apen.jpg)
